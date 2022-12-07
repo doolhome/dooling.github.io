@@ -4,8 +4,8 @@ All the files and subdirectories in this directory were extracted from a compres
 
 A simulation directory has several HTML or XHTML files in it:
   - A main XHTML file named as the simulation.
-  - A table of contents XHTML file, named as the simulation plus a ì_Contentsî suffix.
-  - A simulation XHTML file, named as the simulation plus a ì_Simulationî suffix.
+  - A table of contents XHTML file, named as the simulation plus a ‚Äú_Contents‚Äù suffix.
+  - A simulation XHTML file, named as the simulation plus a ‚Äú_Simulation‚Äù suffix.
   - Possibly, other HTML or XHTML description pages, as included by the author.
 
 To access the complete model with its description pages and simulation in a frame, open the main XHTML file with your favorite browser.
