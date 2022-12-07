@@ -1,0 +1,16 @@
+generated-with: Easy Java/Javascript Simulations, version 6.01, build 201013. Visit http://www.um.es/fem/Ejs
+title: 
+logo-image: 
+author: Author name
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: Unnamed.ejss
+main-script: 
+main-simulation: Unnamed_Simulation.xhtml
+available-languages: 
+html-contents: Unnamed_Contents.xhtml
+html-main: Unnamed.xhtml
+page-title: Simulation
+page-index: Unnamed_Simulation.xhtml
